@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related QA API's"
   contactDetails:
     name: "Bharathi - Tester"
-    email: "358108679fe9381c7f45fa2dedb76d7c56566b08136550adee27f3268eb4252f3a28e315503fc09e79962e4de0cd6adb"
+    email: "{chiper}358108679fe9381c7f45fa2dedb76d7c56566b08136550adee27f3268eb4252f3a28e315503fc09e79962e4de0cd6adb"
   onCallSupport:
     - (91) 12345678
     - (91) 87654321
