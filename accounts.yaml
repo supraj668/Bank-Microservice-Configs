@@ -1,0 +1,12 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related local API's"
+  contactDetails:
+    name: "Supraj - Developer"
+    email: "supraj@gmail.com"
+  onCallSupport:
+    - (91) 12345678
+    - (91) 87654321
+

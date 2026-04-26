@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related prod API's"
+  contactDetails:
+    name: "Swastik - Lead Developer"
+    email: "swastik@gmail.com"
+  onCallSupport:
+    - (91) 12345678
+    - (91) 87654321
