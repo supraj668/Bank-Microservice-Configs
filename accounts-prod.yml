@@ -2,7 +2,7 @@ build:
   version: "v2.0.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod API's"
+  message: "Welcome to EazyBank accounts related new webhook API's"
   contactDetails:
     name: "Swastik - Lead Developer"
     email: "swastik@gmail.com"
