@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts microservices"
+  message: "Welcome to EazyBank accounts docker compose tutorial"
   contactDetails:
     name: "Supraj - Developer"
     email: "supraj@gmail.com"
